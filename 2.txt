@@ -1,0 +1,1 @@
+four stages of git are: working directory,staging area,local repository and remote repository
